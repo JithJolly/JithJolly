@@ -22,5 +22,5 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/jith-jolly/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jith-jolly)
 - 🌐 [Portfolio](https://jith-jolly.vercel.app/)
