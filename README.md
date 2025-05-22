@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jith Jolly
 
-🌥️ Cloud & DevOps Enthusiast | 🚀 Lifelong Learner | Building One Project at a Time
+🌥️ Cloud & DevOps Enthusiast | 🚀 Lifelong Learner |
 
 ---
 
@@ -16,7 +16,6 @@
 ## 🛠️ Current Projects
 
 - 🌩️ [Cloud + DevOps Journey](https://github.com/JithJolly/Cloud-Devops-Journey) – Hands-on path from cloud basics to DevOps tools.
-- 🚧 More projects coming soon...
 
 ---
 
