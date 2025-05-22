@@ -23,4 +23,4 @@
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/jith-jolly)
-- 🌐 [Portfolio (optional)](https://jith-jolly.vercel.app/)
+- 🌐 [Portfolio](https://jith-jolly.vercel.app/)
