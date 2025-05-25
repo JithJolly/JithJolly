@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jith Jolly
 
-🌥️ Cloud & DevOps Enthusiast | 🚀 Lifelong Learner |
+🌥️ Exploring the Cloud | 🚀 Lifelong Learner |
 
 ---
 
